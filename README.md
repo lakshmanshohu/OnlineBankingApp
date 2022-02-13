@@ -1,0 +1,2 @@
+# OnlineBankingApp
+Getir assignment
