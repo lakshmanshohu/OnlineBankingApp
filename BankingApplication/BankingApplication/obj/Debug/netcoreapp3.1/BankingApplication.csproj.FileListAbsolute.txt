@@ -1,0 +1,9 @@
+C:\Users\lram\Downloads\Test\Assignments\OnlineBankingApp\BankingApplication\BankingApplication\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\lram\Downloads\Test\Assignments\OnlineBankingApp\BankingApplication\BankingApplication\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\lram\Downloads\Test\Assignments\OnlineBankingApp\BankingApplication\BankingApplication\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\lram\Downloads\Test\Assignments\OnlineBankingApp\BankingApplication\BankingApplication\obj\Debug\netcoreapp3.1\BankingApplication.csprojAssemblyReference.cache
+C:\Users\lram\Downloads\Test\Assignments\OnlineBankingApp\BankingApplication\BankingApplication\obj\Debug\netcoreapp3.1\staticwebassets\BankingApplication.StaticWebAssets.Manifest.cache
+C:\Users\lram\Downloads\Test\Assignments\OnlineBankingApp\BankingApplication\BankingApplication\obj\Debug\netcoreapp3.1\staticwebassets\BankingApplication.StaticWebAssets.xml
+C:\Users\lram\Downloads\Test\Assignments\OnlineBankingApp\BankingApplication\BankingApplication\obj\Debug\netcoreapp3.1\BankingApplication.AssemblyInfoInputs.cache
+C:\Users\lram\Downloads\Test\Assignments\OnlineBankingApp\BankingApplication\BankingApplication\obj\Debug\netcoreapp3.1\BankingApplication.AssemblyInfo.cs
+C:\Users\lram\Downloads\Test\Assignments\OnlineBankingApp\BankingApplication\BankingApplication\obj\Debug\netcoreapp3.1\BankingApplication.RazorTargetAssemblyInfo.cache
