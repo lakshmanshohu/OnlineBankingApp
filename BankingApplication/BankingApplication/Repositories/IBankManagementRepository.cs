@@ -15,5 +15,6 @@ namespace BankingApplication.Repositories
         void InsertTransation(Account customer);
         void UpdateAccount(Customer customer);
         void UpdateCustomer(Customer customer);
+        List<Customer> GetCustomerById(int customerId);
     }
 }

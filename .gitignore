@@ -5,3 +5,5 @@
 /BankingApplication/.vs/BankingApplication/v16
 /BankingApplication/.vs/BankingApplication/config/applicationhost.config
 /BankingApplication/.vs/BankingApplication/DesignTimeBuild
+/BankingApplication/BankingApplication/bin/Debug/netcoreapp3.1
+/BankingApplication/BankingApplication/obj

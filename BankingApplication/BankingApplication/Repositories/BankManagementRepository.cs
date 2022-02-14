@@ -89,5 +89,9 @@ namespace BankingApplication.Repositories
             //return ConfigurationManager.ConnectionStrings[0].ConnectionString;
         }
 
+        public List<Customer> GetCustomerById(int customerId)
+        {
+            throw new NotImplementedException();
+        }
     }
 }

@@ -7,7 +7,8 @@ namespace BankingApplication.Services
     {
         Customer GetCustomerById(int customerId);
         Customer GetCustomerByName(string customerName);
-        List<Customer> GetCustomers();
+        List<Customer> GetCustomers(int customerId, string customerName, string activeStatus);
         void Insert(Customer customer);
+        void DeleteAccount(int id);
     }
 }

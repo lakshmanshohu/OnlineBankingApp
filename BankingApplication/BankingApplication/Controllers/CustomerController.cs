@@ -21,9 +21,9 @@ namespace BankingApplication.Controllers
         }
         // GET: api/Customer
         [HttpGet]
-        public IEnumerable<Customer> Get()
+        public IEnumerable<Customer> Get(int id, string name, string status)
         {
-            return _bankManagementService.GetCustomers();
+            return _bankManagementService.GetCustomers(id, name, status);
         }
 
         //// GET: api/Customer/5
